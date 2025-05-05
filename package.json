@@ -1,0 +1,14 @@
+{
+  "name": "tamplate-fullstack",
+  "version": "1.0.0",
+  "description": "first file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "frontend": "cd frontend && npm run dev",
+    "backend": "cd backend && npm run dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
